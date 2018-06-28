@@ -1,0 +1,20 @@
+{
+    "name": "ahmedsalah94/LaravelStepper",
+    "description": "",
+    "keywords": [],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmed Salah El-Afifi",
+            "email": "ahmed.s.elafifi@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "LaraHA\\": "src/"
+        }
+    }
+}
