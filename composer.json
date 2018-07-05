@@ -1,5 +1,5 @@
 {
-    "name": "ahmedsalah94/laravel-stepper2",
+    "name": "ahmedsalah94/elafifi-stepper",
     "description": "",
     "keywords": [],
     "license": "MIT",
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "LaraHA\\": "src/"
+            "ElAfifi\\": "src/"
         }
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace LaraHA;
+namespace ElAfifi;
 
 class Stepper
 {
