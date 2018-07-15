@@ -15,7 +15,8 @@
     },
     "autoload": {
         "psr-4": {
-            "ElAfifi\\": "src/"
+            "ElAfifi\\": "src/",
+            "HA\\": "src/"
         }
     }
 }
